@@ -1,0 +1,45 @@
+.index-banner{
+	
+	position: relative;
+	
+}
+.index-banner-bg{
+	height: 570px;
+	overflow: hidden;
+}
+
+.index-banner-bg img{
+	margin:0 auto;
+}
+
+.index-banner-text{
+	position: absolute;
+	left: 50%;
+	top: 211px;
+	margin-left: -388px;
+}
+
+.index-banner-text .text-logo{
+	width: 776px;
+	height: 117px;
+	background: url(../images/index-banner-textlogo.png) no-repeat;
+}
+
+.index-banner-text .text-info{
+	margin-top: 17px;
+	text-align: center;
+	color: #fff;
+	font-size: 16px;
+}
+
+.index-banner-text .text-info .line{
+	display: inline-block;
+	width: 40px;
+	border:1px solid #fff;
+	vertical-align: middle;
+}
+	
+}
+.index-banner-text .text-info .text{
+	margin:0 26px;
+}
